@@ -47,27 +47,10 @@ coworkers:
     description:            Amabla abrite aussi bien des startups que des freelances.<br />Voici quelques uns de nos Coworkers
     subtitle:
     coworkers:
-# Plus présents dans les locaux	
-#        - name:              Evibe
-#          position:          Startup
-#          image:             evibe.png
-#          link:              http://www.evibe.com
         - name:              Xavier
           position:          Président Amabla
           image:             xavier.png
-          link:              https://www.github.com/xgorse
-        - name:              Rémi
-          position:          Porteur du projet Story-Makers
-          image:             remi.png
-          link:              https://github.com/Dreeckan
-        - name:              KlubUp
-          position:          Startup
-          image:             klubup.png
-          link:              https://www.klubup.com
-        - name:              Laurence
-          position:          Commerciale chez Elao
-          image:             laurence.png
-          link:              http://www.elao.com
+          link:              https://www.github.com/xgorse        
         - name:              Nicolas
           position:          Trésorier Amabla
           image:             nicolas.png
@@ -75,11 +58,27 @@ coworkers:
         - name:              Johan
           position:          Secrétaire Amabla
           image:             lutangar.png
-          link:              https://twitter.com/lutangar
+          link:              https://twitter.com/lutangar		  
+        - name:              Rémi
+          position:          Porteur du projet Story-Makers
+          image:             remi.png
+          link:              https://github.com/Dreeckan		  
+        - name:              Laurence
+          position:          Commerciale chez Elao
+          image:             laurence.png
+          link:              http://www.elao.com        
         - name:              Webrox
           position:          Startup
           image:             webrox.png
           link:              http://apps.webrox.fr
+        - name:              Evibe
+          position:          Startup
+          image:             evibe.png
+          link:              http://www.evibe.com		  
+        - name:              KlubUp
+          position:          Startup
+          image:             klubup.png
+          link:              https://www.klubup.com
 
 about:
     title:                  L'association Amabla
