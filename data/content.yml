@@ -74,6 +74,10 @@ coworkers:
           position:          Secrétaire Amabla
           image:             manon_burgel.png
           link:              https://beyond-the-void.net/
+        - name:              Tobias
+          position:          Développeur Mobile/Web Freelance
+          image:             tobias.jpeg
+          link:              https://tobik.eu/
 
 about:
     title:                  L'association Amabla
