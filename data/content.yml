@@ -34,7 +34,7 @@ offers:
         tarif:              16,67 € HT / Jour
     offer2:
         title:              Bureau open space
-        description:        "Un bureau non attitré au sein de l'open-space, accessible à toutes heures."
+        description:        "Un bureau attitré au sein de l'open-space, accessible à toutes heures."
         tarif:              125 € HT / Mois*
     offer3:
         title:              Petit bureau privatif
