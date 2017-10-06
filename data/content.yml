@@ -96,7 +96,11 @@ space:
     slides:
         - image:            "/images/space/1.jpg"
           default:          true
-  #        - image:            "/images/space/2.jpg"
-  #        - image:            "/images/space/3.jpg"
-#        - image:            "/images/space/4.jpg"
-#        - image:            "/images/space/5.jpg"
+        - image:            "/images/space/2.jpg"
+        - image:            "/images/space/3.jpg"
+        - image:            "/images/space/4.jpg"
+        - image:            "/images/space/5.jpg"
+        - image:            "/images/space/6.jpg"
+        - image:            "/images/space/7.jpg"
+        - image:            "/images/space/8.jpg"
+        - image:            "/images/space/9.jpg"
