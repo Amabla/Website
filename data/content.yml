@@ -29,11 +29,15 @@ offers:
     description:            "Amabla propose différentes formules. Les prestations suivantes sont incluses pour toutes les formules:<br />Accès illimité à l'espace, accès internet, climatisation, accès à la cuisine, salle de réunion"
     tarif_maximum:          "* Tarifs maximums. Il s'agit du prix coûtant des bureaux. Etant une association, il est toujours possible d'adapter les montants en fonction de vos possibilités."
     offer1:
-        title:              Bureau open space
-        description:        "Un bureau non attitré au sein de l'open-space, accessible aux heures d'ouverture les jours ouvrés."
-        tarif:              126 € HT / Mois
+        title:              Une journée comme ça
+        description:        "Bon, pour 20€ TTC passez autant de journées que vous le souhaitez dans le mois, grâce au tarif dégressif. Accessible aux heures d'ouverture les jours ouvrés. "
+        tarif:              16,67 € HT / Jour
     offer2:
-        title:              Petit bureau privatif (en rupture)
+        title:              Bureau open space
+        description:        "Un bureau attitré au sein de l'open-space, accessible à toutes heures."
+        tarif:              125 € HT / Mois*
+    offer3:
+        title:              Petit bureau privatif
         description:        Un bureau privé pouvant accueillir jusqu'à <b>3 personnes</b>. Idéal pour les startups.
         tarif:              375 € HT / Mois
 
@@ -42,18 +46,10 @@ coworkers:
     description:            Amabla abrite aussi bien des startups que des freelances.<br />Voici quelques uns de nos Co-workers
     subtitle:
     coworkers:
-        - name:              Evibe
-          position:          Startup
-          image:             evibe.png
-          link:              http://www.evibe.com
         - name:              Rémi
           position:          Porteur du projet Story-Makers
           image:             remi.png
           link:              https://github.com/Dreeckan
-        - name:              KlubUp
-          position:          Startup
-          image:             klubup.png
-          link:              https://www.klubup.com
         - name:              Laurence
           position:          Commerciale chez Elao
           image:             laurence.png
@@ -62,18 +58,38 @@ coworkers:
           position:          Développeur Freelance
           image:             pixocode.png
           link:              https://github.com/pixocode
-        - name:              Alexandre Balmes
+        - name:              Alexandre
           position:          Trésorier Amabla
           image:             alexandre_balmes.jpeg
           link:              https://github.com/pockystar
         - name:              Johan
           position:          Aimable président
-          image:             lutangar.png
+          image:             lutangar.jpg
           link:              https://larriereguichet.fr
         - name:              Manon
           position:          Secrétaire Amabla
           image:             manon_burgel.png
           link:              https://beyond-the-void.net/
+        - name:              Tobias
+          position:          Développeur Mobile/Web Freelance
+          image:             tobias.jpg
+          link:              https://tobik.eu/
+        - name:              Arnaud
+          position:          Illustrateur 3D
+          image:             arnaud.jpg
+          link:              http://arnaud-sparza.com/
+        - name:              Emilie
+          position:          Infographiste
+          image:             emilie.jpg
+          link:              https://emi-design.com/
+        - name:              Pierre Emmanuel
+          position:          Consultant en communication
+          image:             pierre-emmanuel.jpg
+          link:              https://www.linkedin.com/in/pierre-emmanuel-jansen-6a51b117/?locale=fr_FR
+        - name:              Bientôt vous?
+          position:
+          image:             bientotvous.gif
+          link:
 
 about:
     title:                  L'association Amabla
@@ -88,7 +104,11 @@ space:
     slides:
         - image:            "/images/space/1.jpg"
           default:          true
-  #        - image:            "/images/space/2.jpg"
-  #        - image:            "/images/space/3.jpg"
-#        - image:            "/images/space/4.jpg"
-#        - image:            "/images/space/5.jpg"
+        - image:            "/images/space/2.jpg"
+        - image:            "/images/space/3.jpg"
+        - image:            "/images/space/4.jpg"
+        - image:            "/images/space/5.jpg"
+        - image:            "/images/space/6.jpg"
+        - image:            "/images/space/7.jpg"
+        - image:            "/images/space/8.jpg"
+        - image:            "/images/space/9.jpg"
