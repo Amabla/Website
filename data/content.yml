@@ -82,6 +82,14 @@ coworkers:
           position:          Consultant en communication
           image:             pierre-emmanuel.jpg
           link:              https://www.linkedin.com/in/pierre-emmanuel-jansen-6a51b117/?locale=fr_FR
+        - name:              Mathieu
+          position:          Développeur web full stack
+          image:             mathieu.jpg
+          link:              https://www.awebvision.fr/
+        - name:              Shant
+          position:          Commercial - Industrie Medicale
+          image:             shant.jpg
+          link:
         - name:              Bientôt vous?
           position:
           image:             bientotvous.gif
