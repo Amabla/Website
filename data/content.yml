@@ -42,14 +42,6 @@ coworkers:
     description:            Amabla abrite aussi bien des startups que des freelances.<br />Voici quelques uns de nos Co-workers
     subtitle:
     coworkers:
-        - name:              Rémi
-          position:          Porteur du projet Story-Makers
-          image:             remi.png
-          link:              https://github.com/Dreeckan
-        - name:              Laurence
-          position:          Commerciale chez Elao
-          image:             laurence.png
-          link:              http://www.elao.com
         - name:              Jérémy
           position:          Développeur Freelance
           image:             pixocode.png
