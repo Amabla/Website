@@ -5,14 +5,13 @@ brand:            Amabla
 title:            Co-working associatif des acteurs du web et de la com' à Lyon
 lead:             Un co-working space sympa à Lyon pour les techos du Web
 more:             En voir plus
-flyer:            Flyer 2018
 
 contact:
     title:                  Vous voulez en savoir plus ?
     description:            N'hésitez pas à nous contacter ou à venir nous voir!
     name:                   Association Amabla
     email:                  contact@amabla.org
-    adresse1:               66 rue Louis Becker
+    adresse1:               77 rue d'Alsace
     adresse2:               69100 Villeurbanne
     map_url:                "https://www.google.fr/maps/place/66+Rue+Louis+Becker,+69100+Villeurbanne"
     twitter:                "@AmablaOrg"
@@ -95,16 +94,6 @@ about:
 
 space:
     title:                  L'espace
-    description:            "Situé dans un ancien atelier, l'espace Amabla propose un open-space au coeur de Villeurbanne.<br />Pour tous les besoins, nous proposons des bureaux volants ou des bureaux dédiés."
+    description:            "Dans un local entièrement rénové, l'espace Amabla propose un open-space au coeur de Villeurbanne.<br />Pour tous les besoins, nous proposons des bureaux volants."
     equipements:            "Equipements: Cuisine <i class='fa fa-cutlery'></i>, Machines à café <i class='fa fa-coffee'></i>, salle de réunions <i class='fa fa-users'></i>, Internet <i class='fa fa-globe'></i>."
     slides:
-        - image:            "/images/space/1.jpg"
-          default:          true
-        - image:            "/images/space/2.jpg"
-        - image:            "/images/space/3.jpg"
-        - image:            "/images/space/4.jpg"
-        - image:            "/images/space/5.jpg"
-        - image:            "/images/space/6.jpg"
-        - image:            "/images/space/7.jpg"
-        - image:            "/images/space/8.jpg"
-        - image:            "/images/space/9.jpg"
