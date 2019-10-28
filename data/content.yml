@@ -85,3 +85,9 @@ space:
     description:            "Dans un local entièrement rénové, l'espace Amabla propose un open-space au coeur de Villeurbanne.<br />Pour tous les besoins, nous proposons des bureaux fixes ou nomades."
     equipements:            "Equipements: Cuisine <i class='fa fa-cutlery'></i>, Machines à café <i class='fa fa-coffee'></i>, salle de réunions <i class='fa fa-users'></i>, Internet <i class='fa fa-globe'></i>."
     slides:
+      - image:            "images/space/1.jpg"
+        default:          true
+      - image:            "images/space/2.jpg"
+      - image:            "images/space/3.jpg"
+      - image:            "images/space/4.jpg"
+      - image:            "images/space/5.jpg"
