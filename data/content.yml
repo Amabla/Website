@@ -61,14 +61,22 @@ coworkers:
           position:          Développeur web full stack
           image:             mathieu.jpg
           link:              https://www.awebvision.fr/
-        - name:              Sébastien
-          position:          Committer Spring Framework
-          image:             sebastien.jpg
-          link:              https://twitter.com/sdeleuze
         - name:              Damien
           position:          Développeur JS full stack
           image:             damien.jpg
           link:              http://feugy.github.io
+        - name:              Yohann
+          position:          Développeur Fullstack | Symfony | VueJs | DevOps
+          image:             yohann.jpg
+          link:              https://yohannvalentin.com/
+        - name:              Dorian
+          position:          Développeur Web Indépendant
+          image:             dorian.jpg
+          link:              https://www.linkedin.com/in/d-lemoine
+        - name:              Geoffrey
+          position:          Consultant .net
+          image:             geoffrey.jpg
+          link:              https://www.linkedin.com/in/oor-gmc/
         - name:              Bientôt vous?
           position:
           image:             bientotvous.gif
